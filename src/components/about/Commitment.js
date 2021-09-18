@@ -1,4 +1,5 @@
 import React from 'react';
+import './css/commit.css';
 
 const Commitment = () => {
   return (

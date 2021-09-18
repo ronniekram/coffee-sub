@@ -1,4 +1,5 @@
 import React from 'react';
+import './css/select.css';
 
 const Select = () => {
   return (
