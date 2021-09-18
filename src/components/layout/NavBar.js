@@ -6,6 +6,9 @@ import '../../assets/styles/layout/nav.css';
 
 const NavBar = () => {
   const [open, setOpen] = useState(false);
+
+  const handleMenuClick = () => open ? setOpen(false) : setOpen(true);
+  
   return (
     <nav className="container">
 
