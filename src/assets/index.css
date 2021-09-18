@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=Fraunces:wght@900&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fefcf6;
+  font-family: "Barlow";
+  color: #343e4c;
+}
